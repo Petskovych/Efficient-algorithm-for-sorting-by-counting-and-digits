@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user\Desktop\lab3.0\lab3.2\main\main\main.cpp(54,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.vcxproj -> C:\Users\user\Desktop\lab3.0\lab3.2\main\x64\Debug\main.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
